@@ -18,7 +18,7 @@ Estudio **Ciencia de Datos** y estoy en primer año. Antes hice un año de la **
 
 ### Estadísticas
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&locale=es)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&locale=es)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=eugecuen&show_icons=true&locale=es)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=eugecuen&layout=compact&locale=es)
 
-![Visitas](https://komarev.com/ghpvc/?username=TU-USUARIO&label=Visitas)
+![Visitas](https://komarev.com/ghpvc/?username=eugecuen&label=Visitas)
